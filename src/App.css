@@ -36,3 +36,31 @@
     transform: rotate(360deg);
   }
 }
+
+.workout {
+  color: red
+}
+
+.woBox {
+  border: 10px solid lightgreen;
+
+}
+
+.nav{
+  margin: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 35px;
+  color: black;
+  text-align: center;
+  margin-left: 90px;;
+}
+
+.nav:hover {
+  color: orange;
+}
+
+.homepage {
+  /* background-image: url("https://prm-fl.com/wp-content/uploads/2021/05/Whole-Health-3.jpg"); */
+  text-align: center;
+  
+}
